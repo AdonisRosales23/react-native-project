@@ -48,4 +48,4 @@ Esto es un proyecto realizado para la materia Diseño y Programación de Softwar
 
 
 ## Licencias Creative Commons
--  Gestion de eventos comunitarios © 2024 by Josseline Esmeralda Martínez Hernández Denilson Emmanuel Chávez Cruz is licensed under Creative Commons Attribution-NoDerivatives 4.0 International
+-  Gestion de eventos comunitarios © 2024 by Josseline Esmeralda Martínez Hernández Denilson Emmanuel Chávez Cruz is licensed under Creative Commons Attribution-NoDerivatives 4.0 International.
